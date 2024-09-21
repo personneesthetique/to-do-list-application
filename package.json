@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list-application",
+  "version": "1.0.0",
+  "description": "to-do-list application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Ivanitsky",
+  "license": "ISC",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
